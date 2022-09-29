@@ -1,5 +1,9 @@
 # control-lights-using-a-smartphone-with-an-internet-of-things-system
 This project uses esp32 as a controller that connects the lamp and smartphone with internet of things
+
+Video pembuatan project dapat anda lihat di link google drive berikut :
+https://drive.google.com/file/d/14HGEsVd9yNTeMDxjbTBZszKmeLG8y40Z/view?usp=sharing
+
 Alat dan bahan yang digunakan :
 1.	Laptop
 2.	Modul esp32
